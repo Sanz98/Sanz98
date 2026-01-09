@@ -10,7 +10,7 @@
 
 **` Desenvolvedor Back End | Estágio `**
 
- Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando tecnico superior em Análise e Desenvolvimento de Sistmas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) e atualmente estou realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Back End, Hardware e Robótica Arduino na região do Interior, sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia
+ Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando tecnico superior em Análise e Desenvolvimento de Sistmas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) e atualmente realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, profissionalizante em  Hardware e Robótica Arduino na região do Interior, sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia
 
 
 ###
