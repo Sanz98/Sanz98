@@ -35,7 +35,7 @@
 <br>
 
 <details>
-<summary>👀 Veja os Detalhes das Linguagens</summary>
+<summary>👀 🛠️ Conjunto de Tecnologias </summary>
 <br>
 <a href="https://github.com/Sanz98">
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanz98&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
@@ -46,20 +46,61 @@
 <img width="5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
 <img width="5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
-<img width="5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
-<img width="5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c logo" />
 <img width="5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus logo" />
 <img width="5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver logo" />
+
 </div>
   
 </a>
-</details>
 
+
+## 🛠️ Ferramentas e Testes
+
+<div style="display: inline_block">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub Badge" />
+  </a>
+  &nbsp;
+  <a href="https://app.diagrams.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="35" alt="Draw.io Badge" />
+  </a>
+</div>
+
+
+## 🗄️ Banco de Dados
+
+<div style="display: inline_block">
+ <a href="https://www.microsoft.com/en-us/MS-Sql-Server" target="_blank">
+  <img src="https://img.shields.io/badge/MS SQL%20Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white" height="35" alt="Microsoft SQL Server Badge" />
+</a>
+</div>
+
+
+## ⚙️ Estruturas e Bibliotecas
+
+<div style="display: inline_block">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="Node.js Badge" />
+  </a>
+  &nbsp;
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="35" alt="Express.js Badge" />
+  </a>
+  &nbsp;
+
+  <a href="https://www.npmjs.com/package/dotenv" target="_blank">
+    <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" height="35" alt="Dotenv Badge" />
+  </a>
+</div>
+
+</details>
 <br>
 
 
