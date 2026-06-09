@@ -17,7 +17,7 @@
 
 
 <a href="https://www.instagram.com/neeres__/">
-  <img src="https://img.shields.io/static/v1?label=&message=Instagram%20900%20&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?label=&message=Instagram%20%20&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
   <a href="mailto:fonsecasanzd@gmail.com">
@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248/">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn%2066&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
   <br><br>
