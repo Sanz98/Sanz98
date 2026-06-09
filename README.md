@@ -1,75 +1,92 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Diogo%20Fonseca&subtitle=Desenvolvedor%20Back-End%20-%20Estagio&fontSize=40" width="100%" alt="Header" />
-</div>
-### ⚡ Sobre Mim
+<br clear="both">
 
-Olá! Me chamo **Diogo Fonseca Sanz**, tenho 20 anos e resido no interior de São Paulo. Sou fascinado por tecnologia e tenho como plano de carreira evoluir continuamente na área de desenvolvimento de software.
-
-- 🎓 **Graduação:** Cursando Ensino Superior de Tecnologia em **Análise e Desenvolvimento de Sistemas (ADS)** na Faculdade de Tecnologia de Americana Ministro Ralph Biasi (**FATEC Americana**).
-- 📚 **Formação Complementar:** Qualificação profissional em informática básica, além de cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, Hardware e Robótica com Arduino.
-- 💼 **Objetivo Profissional:** Atuar como Desenvolvedor Back-End / Estagiário, aplicando lógica de programação e arquitetura de soluções robustas.
-
----
-
-### 🌐 Redes Sociais e Contato
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO_LINKS" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/SEU_USUARIO_LINKS" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
----
+###
 
-### 🚀 Tecnologias e Ferramentas
+`⚡ Diogo Fonseca `
+
+**` Desenvolvedor Back End | Estágio `**
+
+<p1> Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando tecnico superior em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) e atualmente realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, profissionalizante em  Hardware e Robótica Arduino na região do Interior, sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia <p1/>
+
+
+###
+
+
+<a href="https://www.instagram.com/neeres__/">
+  <img src="https://img.shields.io/static/v1?label=&message=Instagram%20900%20&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
+
+  <a href="mailto:fonsecasanzd@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/diogo-fonseca-sanz-264153248/">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn%2066&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
+  <br><br>
+<div align="center">
+<details>
+<summary>🚀 Clique para ver todas as Estatísticas e Tecnologias</summary>
+<br>
 
 <details>
-<summary>👀 Clique para ver as Linguagens e Habilidades</summary>
+<summary>👀 Veja os Detalhes das Linguagens</summary>
 <br>
-
-#### 💻 Desenvolvimento Back-End & Front-End
+<a href="https://github.com/Sanz98">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sanz98&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="35" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="35" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus logo" />
+<img width="5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver logo" />
 </div>
-
-<br>
-
-#### 🗄️ Bancos de Dados & Versionamento
-<div>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git" />
-</div>
-
+  
+</a>
 </details>
 
----
-
-### 📊 Estatísticas e Métricas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanz98&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanz98&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
-</div>
-
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sanz98&theme=dark" alt="GitHub Streak" />
-</div>
 
+####
+<div align="center">
+
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanz98&theme=dracula" />
+  </a>
+
+  <br><br>
 <br>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanz98&theme=react-dark&area=true&category=commits" alt="Gráfico de Atividade" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanz98/Sanz98/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanz98/Sanz98/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sanz98/Sanz98/output/pacman-contribution-graph.svg">
+</picture>
+
+<br><br>
+
+<img src="https://count.getloli.com/@:Sanz98?theme=normal-2&padding=7&scale=1&align=center&pixelated=0&darkmode=1" />
+
+<br><br>
+
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=-1&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+
+</details>
 </div>
+ 
