@@ -10,7 +10,7 @@
 
 **` Desenvolvedor de Sistemas `**
 
-<p1> Me chamo Diogo Fonseca Sanz, tenho 20 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando  tecnólogo superior em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) no 2º Semestre  e atualmente realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, profissionalizantes em  Hardware,Robótica Arduino,Cybersegurança,Progamação,Automação e Redes, todos os cursos estão  na Região do Interior de SP , sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia <p1/>
+<p1> Me chamo Diogo Fonseca Sanz, tenho 21 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando  tecnólogo superior em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) no 2º Semestre  e atualmente realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, profissionalizantes em  Hardware,Robótica Arduino,Cybersegurança,Progamação,Automação e Redes, todos os cursos estão  na Região do Interior de SP , sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia <p1/>
 
 
 ###
