@@ -10,7 +10,14 @@
 
 **` Desenvolvedor de Sistemas `**
 
-<p1> Me chamo Diogo Fonseca Sanz, tenho 21 anos, atualmente resido na região do interior de São Paulo. Tenho ensino medio integral concluido, possuo qualificação profissional em informatica básica. Atualmente estou graduando  tecnólogo superior em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Americana Ministro Ralph Biasi ( FATEC AMERICANA ) no 2º Semestre  e atualmente realizando cursos profissionalizantes especializados em Desenvolvimento de Sistemas Full Stack, profissionalizantes em  Hardware,Robótica Arduino,Cybersegurança,Progamação,Automação e Redes, todos os cursos estão  na Região do Interior de SP , sou fascinado por tecnologia e tenho como plano de carreira em evoluir na área de tecnologia <p1/>
+<p1> Estudante do Curso Superior de Tecnologia em Segurança da Informação na Fatec de Americana "Ministro Ralph Biasi" (2º semestre). Tenho Ensino Médio Integral concluído e qualificação profissional em Informática (Microcamp), além de formação complementar em Desenvolvimento Back-End (SENAI, 160h) e Hardware, Redes & Robótica/Arduino (Aditus Educação) — uma base que une infraestrutura, programação e boas práticas de segurança.
+
+Sou apaixonado por tecnologia e defini com clareza meu objetivo de carreira: especializar-me nas áreas de Desenvolvimento de Sistemas, Cibersegurança e Perícia Forense Digital, unindo minha vivência prática com hardware, redes e lógica de programação (C/C++, HTML, CSS, JavaScript, SQL Server, Node.js) ao interesse crescente por investigação e proteção de dados.
+
+Já apliquei raciocínio analítico e resolução de problemas técnicos em ambiente industrial, operando o sistema ERP TOTVS Protheus e realizando manutenção preventiva de equipamentos — experiência que reforçou minha atenção a detalhes e disciplina com processos, competências essenciais também em segurança da informação.
+
+Busco minha primeira oportunidade de estágio em Tecnologia da Informação — com interesse em Segurança da Informação/Cibersegurança e também em Desenvolvimento de Sistemas — disponível para atuação presencial ou híbrida em Campinas, Sumaré, Nova Odessa, Americana, Hortolândia, Paulínia e região.
+ <p1/>
 
 
 ###
