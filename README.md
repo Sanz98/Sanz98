@@ -10,14 +10,22 @@
 
 **` Desenvolvedor de Sistemas `**
 
-<p1> Estudante do Curso Superior de Tecnologia em Segurança da Informação na Fatec de Americana "Ministro Ralph Biasi" (2º semestre). Tenho Ensino Médio Integral concluído e qualificação profissional em Informática (Microcamp), além de formação complementar em Desenvolvimento Back-End (SENAI, 160h) e Hardware, Redes & Robótica/Arduino (Aditus Educação) — uma base que une infraestrutura, programação e boas práticas de segurança.
+<p1> 
+Estudante do Curso Superior de Tecnologia em Segurança da Informação na Fatec Americana "Ministro Ralph Biasi" (3º semestre, 2800 h). Tenho qualificação profissional em Informática (Microcamp, 110 h) e formação complementar em Desenvolvimento Back-End (SENAI, 160 h) e em Hardware, Redes e Robótica/Arduino (Aditus Educação, 140 h, em andamento). É uma base que une infraestrutura, programação e boas práticas de segurança.
 
-Sou apaixonado por tecnologia e defini com clareza meu objetivo de carreira: especializar-me nas áreas de Desenvolvimento de Sistemas, Cibersegurança e Perícia Forense Digital, unindo minha vivência prática com hardware, redes e lógica de programação (C/C++, HTML, CSS, JavaScript, SQL Server, Node.js) ao interesse crescente por investigação e proteção de dados.
+Sou apaixonado por tecnologia e defini com clareza meu objetivo de carreira: especializar-me em Cibersegurança, Segurança da Informação, Desenvolvimento de Sistemas, Segurança em IoT, Perícia Forense Digital e Automação de Sistemas Residenciais e Empresariais. Para isso, uno minha vivência prática com hardware e informática à lógica de programação e tenho conhecimento básico a intermediário nas seguintes stacks:
 
-Já apliquei raciocínio analítico e resolução de problemas técnicos em ambiente industrial, operando o sistema ERP TOTVS Protheus e realizando manutenção preventiva de equipamentos — experiência que reforçou minha atenção a detalhes e disciplina com processos, competências essenciais também em segurança da informação.
+Linguagens: C/C++, HTML, CSS, JavaScript, SQL, Python e Node.js
+Ferramentas: Git e GitHub
+IAs: Gemini, Claude e Microsoft Copilot
+Minha experiência mais recente foi na MC Sumaré Edições Culturais LTDA (Microcamp), como Estagiário e Professor de Informática e Hardware. Prestei suporte técnico a alunos e professores, fiz manutenção preventiva e corretiva de computadores e periféricos, apoiei a configuração de redes locais nos laboratórios e ministrei aulas de informática, montagem e diagnóstico de hardware.
 
-Busco minha primeira oportunidade de estágio em Tecnologia da Informação — com interesse em Segurança da Informação/Cibersegurança e também em Desenvolvimento de Sistemas — disponível para atuação presencial ou híbrida em Campinas, Sumaré, Nova Odessa, Americana, Hortolândia, Paulínia e região.
- <p1/>
+Também tenho uma experiência mais antiga em ambiente industrial, onde apliquei raciocínio analítico e resolução de problemas técnicos operando o sistema ERP TOTVS Protheus e realizando manutenção preventiva de equipamentos. Acredito que essa vivência reforçou minha atenção a detalhes e a disciplina com processos, competências essenciais também em segurança da informação.
+
+Busco minha primeira oportunidade  em Tecnologia da Informação, com interesse em Segurança da Informação/Cibersegurança e em Desenvolvimento de Sistemas. Estou disponível para atuação presencial ou híbrida em Campinas, Sumaré, Nova Odessa, Americana, Hortolândia, Paulínia e região, e para atuação remota em SP e outros...
+
+Portfólio: https://diogo-fonseca.onrender.com/
+<p1/>
 
 
 ###
