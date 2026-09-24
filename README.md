@@ -18,6 +18,7 @@ Sou apaixonado por tecnologia e defini com clareza meu objetivo de carreira: esp
 Linguagens: C/C++, HTML, CSS, JavaScript, SQL, Python e Node.js
 Ferramentas: Git e GitHub
 IAs: Gemini, Claude e Microsoft Copilot
+
 Minha experiência mais recente foi na MC Sumaré Edições Culturais LTDA (Microcamp), como Estagiário e Professor de Informática e Hardware. Prestei suporte técnico a alunos e professores, fiz manutenção preventiva e corretiva de computadores e periféricos, apoiei a configuração de redes locais nos laboratórios e ministrei aulas de informática, montagem e diagnóstico de hardware.
 
 Também tenho uma experiência mais antiga em ambiente industrial, onde apliquei raciocínio analítico e resolução de problemas técnicos operando o sistema ERP TOTVS Protheus e realizando manutenção preventiva de equipamentos. Acredito que essa vivência reforçou minha atenção a detalhes e a disciplina com processos, competências essenciais também em segurança da informação.
