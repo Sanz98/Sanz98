@@ -23,7 +23,7 @@ Minha experiência mais recente foi na MC Sumaré Edições Culturais LTDA (Micr
 
 Também tenho uma experiência mais antiga em ambiente industrial, onde apliquei raciocínio analítico e resolução de problemas técnicos operando o sistema ERP TOTVS Protheus e realizando manutenção preventiva de equipamentos. Acredito que essa vivência reforçou minha atenção a detalhes e a disciplina com processos, competências essenciais também em segurança da informação.
 
-Busco minha primeira oportunidade  em Tecnologia da Informação, com interesse em Segurança da Informação/Cibersegurança e em Desenvolvimento de Sistemas. Estou disponível para atuação presencial ou híbrida em Campinas, Sumaré, Nova Odessa, Americana, Hortolândia, Paulínia e região, e para atuação remota em SP e outros...
+Busco novas oportunidades  em Tecnologia da Informação, com interesse em Segurança da Informação/Cibersegurança e em Desenvolvimento de Sistemas. Estou disponível para atuação presencial ou híbrida em Campinas, Sumaré, Nova Odessa, Americana, Hortolândia, Paulínia e região, e para atuação remota em SP e outros...
 
 Portfólio: https://diogo-fonseca.onrender.com/
 <p1/>
